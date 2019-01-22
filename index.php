@@ -33,6 +33,21 @@ include("couverture.php");
 include("sommaire.php"); 
 
 
+include("questcequecest.php"); 
+
+include("moteurjeu.php");    
+
+include("console.php"); 
+
+include("pixelart.php"); 
+
+include("musique.php");    
+
+include("retrogaming.php"); 
+
+include("tic80.php"); 
+
+
 include("liens.php"); 
 
 include("ilard.php");    

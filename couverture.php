@@ -1,7 +1,7 @@
                 <section>
-                    <h3>Logiciel OsmAnd</h3>
-                    <h4>Cartographie et navigation dans sa poche</h4>
-                    <img src="image/Openstreetmap_logo.svg.png" width="200px" style="border: 0;box-shadow: none;background: transparent;" class="nostyle">&nbsp;&nbsp;
+                    <h3>Fantasy Console</h3>
+                    <h4>Console de jeu fantaisiste</h4>
+                    <img src="image/" width="200px" style="border: 0;box-shadow: none;background: transparent;" class="nostyle">&nbsp;&nbsp;
                     <br/>
                     <br/>
                     <p>
