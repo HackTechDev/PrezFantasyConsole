@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>reveal.js</title>
+		<title>Présentation Fantasy Console</title>
 
 		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="css/theme/black.css">
@@ -24,8 +24,22 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
+<?php
+
+include("conf.php");
+
+include("couverture.php");
+
+include("sommaire.php"); 
+
+
+include("liens.php"); 
+
+include("ilard.php");    
+
+include("zeend.php"); 
+
+?>
 			</div>
 		</div>
 
