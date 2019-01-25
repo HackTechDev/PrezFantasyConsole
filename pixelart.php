@@ -1,3 +1,4 @@
+<section>
                 <section>
                     <h1>Pixel Art</h1>
                     <p>
@@ -11,3 +12,18 @@
                     </p>
                 </section>
 
+                <section>
+                    <p>
+                        <ul>
+                        <img src="image/pa01.png">
+                         </ul>
+                    </p>
+                </section>
+               <section>
+                    <p>
+                        <ul>
+                        <img src="image/29-Mountains.gif">
+                         </ul>
+                    </p>
+                </section>
+</section>

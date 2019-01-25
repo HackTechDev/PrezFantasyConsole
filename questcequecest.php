@@ -8,7 +8,7 @@
                         <li>Graphisme en Pixel-Art</li>
                         <li>Musique et son en chiptune</li>
                         <li>Retro-gaming</li>
-                        <li>Tout intégré<li>
+                        <li>Tout intégré</li>
                         </ul>
                     </p>
                 
