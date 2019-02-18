@@ -3,7 +3,7 @@
                     <h1>Chiptune</h1>
                     <p>
                         <ul>
-                        <li>Genre musique</li>
+                        <li>Genre de musique en 8-bit</li>
                         <li>Composé de sons synthétisés</li>
                         <li>Caractérisé par des échantillons sonores</li>
                          </ul>
