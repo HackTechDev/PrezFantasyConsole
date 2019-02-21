@@ -11,6 +11,22 @@
                 </section>
 
                 <section>
+                    <h1>Spécification technique</h1>
+                    <p>
+                        <ul>
+                        <li>Affichage : 240X126 pixels avec une palette de 16 couleurs</li>
+                        <li>Inputs : 2 manettes 8 boutons / souris</li>
+                        <li>Sprites : 256 sprites de 8×8 pour le premier plan idem pour les tiles d’arrière plan</li>
+                        <li>Carte : 240X136 cellules. 1920×1088 pixels</li>
+                        <li>Son : 4 pistes avec ondes sonores configurables</li>
+                        <li>Code : 64kb de LUA ou Moonscript ou Javascript</li>
+                        </ul>
+                    </p>
+
+                </section>
+
+
+                <section>
                     <h1>Console</h1>
                     <p>
                         <img src="image/t01.png">                        
