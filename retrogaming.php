@@ -3,7 +3,7 @@
                     <p>
                         <ul>
                         <li>Jouer à des jeux vidéos anciens</li>
-                        <li>Collectionner des ordinateurs, console, borne d'arcade</li>
+                        <li>Collectionner des ordinateurs, consoles, bornes d'arcade</li>
                         </ul>
                     </p>
                 </section>
