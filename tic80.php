@@ -2,10 +2,11 @@
                     <h1>TIC-80</h1>
                     <p>
                         <ul>
-                        <li>Logiciel de développement de jeux vidéo</li>
-                        <li>Fantasy Console sous licence libre</li>
+                        <li>Environnement de développement intégré de jeux vidéo</li>
+                        <li>Sous licence libre MIT</li>
                         <li>Fonctionne sur Android, Linux, MacOS, Windows</li>
                         <li>Programmation en Lua, Javascript</li>
+			<li>Code source sur Github : <a href=""https://github.com/nesbox/TIC-80 target="_blank">https://github.com/nesbox/TIC-80</a></li>
                         </ul>
                     </p>
                 </section>
