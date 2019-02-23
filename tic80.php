@@ -17,7 +17,7 @@
                         <ul>
                         <li>Affichage : 240X126 pixels avec une palette de 16 couleurs</li>
                         <li>Entrées : 2 manettes 8 boutons / souris</li>
-                        <li>Sprites : 256 sprites de 8×8 pour le premier plan idem pour les tiles d’arrière plan</li>
+                        <li>Sprites : 256 sprites de 8×8 pour le premier plan idem pour les tuiles d’arrière plan</li>
                         <li>Carte : 240X136 cellules. 1920×1088 pixels</li>
                         <li>Son : 4 pistes avec ondes sonores configurables</li>
                         <li>Code : 64kb de LUA ou Javascript</li>

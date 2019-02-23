@@ -26,4 +26,19 @@
                          </ul>
                     </p>
                 </section>
+               <section>
+                    <p>
+                        <ul>
+                        <img src="image/blur.gif" width="800px">
+                         </ul>
+                    </p>
+                </section>
+               <section>
+                    <p>
+                        <ul>
+                        <img src="image/glitch.gif" width="800px">
+                         </ul>
+                    </p>
+                </section>
+
 </section>

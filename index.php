@@ -39,11 +39,11 @@ include("moteurjeu.php");
 
 include("console.php"); 
 
+include("retrogaming.php"); 
+
 include("pixelart.php"); 
 
 include("musique.php");    
-
-include("retrogaming.php"); 
 
 include("tic80.php"); 
 
