@@ -19,7 +19,7 @@
     </section>
 
     <section>
-      <img src="image/800px-Game-Boy-Original.jpg" width="400px" style="border: 0;box-shadow: none;background: transparent;" class="nostyle">&nbsp;&nbsp;
+      <img src="image/800px-Game-Boy-Original.jpg" width="300px" style="border: 0;box-shadow: none;background: transparent;" class="nostyle">&nbsp;&nbsp;
     </section>
 
 

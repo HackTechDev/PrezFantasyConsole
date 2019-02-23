@@ -30,7 +30,7 @@ include("conf.php");
 
 include("couverture.php");
 
-include("sommaire.php"); 
+//include("sommaire.php"); 
 
 
 include("questcequecest.php"); 
